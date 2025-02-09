@@ -17,7 +17,7 @@ Here are some of the web pages I've built at the Mike Loya Center for Innovation
 ---
 ### 📝 **Publication**
 📄 [The Fingerprint Assignment: An Interdisciplinary Assessment for CS I Education](https://dl.acm.org/doi/10.1145/3626253.3635333)  
-🧑‍🏫 Presented this paper at **SIGSCE 2024** (https://sigcse2024.sigcse.org/details/sigcse-ts-2024-nifty-assignments/3/The-Fingerprint-Assignment-An-Interdisciplinary-Assessment-for-CS-I-Education), tailored for the Fundamentals of Computer Programming I and II courses. 
+🧑‍🏫 Presented this paper at **SIGSCE 2024**(https://sigcse2024.sigcse.org/details/sigcse-ts-2024-nifty-assignments/3/The-Fingerprint-Assignment-An-Interdisciplinary-Assessment-for-CS-I-Education), tailored for the Fundamentals of Computer Programming I and II courses. 
 
 ---
 
