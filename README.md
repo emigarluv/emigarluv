@@ -12,6 +12,7 @@ Here are some of the web pages I've built at the Mike Loya Center for Innovation
 - [@emigarluv](https://github.com/emigarluv)  
 - [@Nacim21](https://github.com/Nacim21)
 - [@M3uffen](https://github.com/M3uffen)
+
 📖 The Bank of Miners is a Java-based banking system developed for my Advanced Object-Oriented Programming (AOOP) course. The project focused on applying OOP principles, implementing modular code, and using JUnit for unit testing.
 
 ### 📝 **Publication**
@@ -29,6 +30,7 @@ Here are some of the web pages I've built at the Mike Loya Center for Innovation
 ## 🛠 Technologies & Tools  
 💻 **Languages:** Java, Python, JavaScript, HTML, CSS  
 🛠 **Tools & Frameworks:** Git, Linux  
+
 ---
 
 
