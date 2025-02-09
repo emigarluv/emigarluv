@@ -4,9 +4,8 @@
 Here are some of the web pages I've built at the Mike Loya Center for Innovation and Commerce.
 -->
 
-
 ### 🎓 **School Project**
-🔗 [The Bank Of Miners - Description](https://github.com/Nacim21/TheBankOfMiners)  
+🔗 [The Bank Of Miners](https://github.com/Nacim21/TheBankOfMiners)  
 📌 **Technologies:** Java, JUnit  
 🧑‍💻 **Team Members:** 
 - [@emigarluv](https://github.com/emigarluv)  
@@ -15,9 +14,10 @@ Here are some of the web pages I've built at the Mike Loya Center for Innovation
 
 📖 The Bank of Miners is a Java-based banking system developed for my Advanced Object-Oriented Programming (AOOP) course. The project focused on applying OOP principles, implementing modular code, and using JUnit for unit testing.
 
+---
 ### 📝 **Publication**
 📄 [The Fingerprint Assignment: An Interdisciplinary Assessment for CS I Education](https://dl.acm.org/doi/10.1145/3626253.3635333)  
-🧑‍🏫 Presented this paper at **SIGSCE 2024**,tailored for the Fundamentals of Computer Programming I and II courses. 
+🧑‍🏫 Presented this paper at **SIGSCE 2024**, tailored for the Fundamentals of Computer Programming I and II courses. 
 
 ---
 
