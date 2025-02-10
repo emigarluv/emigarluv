@@ -29,7 +29,7 @@ Here are some of the web pages I've built at the Mike Loya Center for Innovation
 
 ## 🛠 Technologies & Tools  
 💻 **Languages:** Java, Python, JavaScript, HTML, CSS  
-🛠 **Tools & Frameworks:** Git, Linux  
+🛠 **Technologies:** Git, Linux  
 
 ---
 
