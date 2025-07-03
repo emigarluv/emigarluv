@@ -14,7 +14,7 @@
 
 📌 **Technologies:** JavaScript, HTML, CSS, PHP, SQL, Google Maps API  
 
-📖 This repository includes previews of several features I designed and developed for the Multimodal Web Tool. These pages showcase interactive map visualizations, data layers, and user-friendly interfaces that support multimodal transportation planning and analysis.
+📖 This repository includes previews of several features I designed and developed for the Multimodal Web Tool. These pages showcase interactive map visualizations, analytic charts, and user-friendly interfaces that support transportation planning and analysis.
 
 ---
 
@@ -48,16 +48,16 @@
 ## 📝 **Publications**
 ---
 
-📄 [Cultivating Sense of Belonging in Computing Education: Identifying Servingness Traits Among Community College Population](https://dl.acm.org/doi/10.1145/3641555.3705157)  
+📄 [Cultivating Sense of Belonging in Computing Education: Identifying Servingness Traits Among Community College Population (Feb 2025)](https://dl.acm.org/doi/10.1145/3641555.3705157)  
 📖 This paper investigates the factors that foster a sense of inclusion and support among community college students in computing programs.
 
 ---
 
-📄 [Enhancing Introductory CS Courses Through Live Programming with Peer-Led Team Learning](https://dl.acm.org/doi/10.1145/3626253.3635333)  
+📄 [Enhancing Introductory CS Courses Through Live Programming with Peer-Led Team Learning (Dec 2024)](https://dl.acm.org/doi/10.1145/3686852.3687085)  
 📖 This paper explores the integration of live programming, using Visual Studio Live Share, into introductory computer science courses at a community college. It demonstrates how real-time collaborative coding environments can significantly enhance student understanding during early programming education. 
 
 ---
-📄 [The Fingerprint Assignment: An Interdisciplinary Assessment for CS I Education](https://dl.acm.org/doi/10.1145/3626253.3635333)  
+📄 [The Fingerprint Assignment: An Interdisciplinary Assessment for CS I Education (March 2024)](https://dl.acm.org/doi/10.1145/3626253.3635333)  
 📖 Presented this paper at [**SIGSCE 2024**](https://sigcse2024.sigcse.org/details/sigcse-ts-2024-nifty-assignments/3/The-Fingerprint-Assignment-An-Interdisciplinary-Assessment-for-CS-I-Education), under the category of Nifty Assignments.
 
 ---
