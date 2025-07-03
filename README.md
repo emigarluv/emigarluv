@@ -49,7 +49,7 @@
 ---
 
 📄 [Cultivating Sense of Belonging in Computing Education: Identifying Servingness Traits Among Community College Population (Feb 2025)](https://dl.acm.org/doi/10.1145/3641555.3705157)  
-📖 This paper investigates the factors that foster a sense of inclusion and support among community college students in computing programs.
+📖 This paper investigates the factors that foster a sense of belonging and support among community college students in computing programs.
 
 ---
 
